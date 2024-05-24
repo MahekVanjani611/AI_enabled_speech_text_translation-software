@@ -3,7 +3,7 @@ import speech_recognition as sr
 from transformers import pipeline
 import os
 import tempfile
-import sentencepiece
+
 
 # Initialize recognizer and translator
 recognizer = sr.Recognizer()
