@@ -1,7 +1,5 @@
 # AI_enabled_speech_text_translation-software
 
-# Contributors: Mahek Vanjani
-
 ## Overview
 **AI Enabled Speech Text Translation Software is a project designed to translate speech to text and vice versa using advanced AI technologies. This software aims to facilitate communication across different languages by leveraging powerful speech recognition and natural language processing techniques.**
 
